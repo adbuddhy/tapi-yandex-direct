@@ -2,11 +2,6 @@
 
 Написано на версии python 3.5
 
-## Установка
-```
-pip install tapi-yandex-direct
-```
-
 ## Примеры
 
 Примеры находятся в [Ipython Notebook](https://github.com/pavelmaksimov/tapi-yandex-direct/blob/master/examples.ipynb)
