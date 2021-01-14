@@ -1,0 +1,11 @@
+requests-oauthlib>=0.4.2
+simplejson
+requests>=2.6
+arrow>=0.6.0
+
+# cffi==1.14.4
+# cryptography==3.3.1
+# pycparser==2.20
+# pyOpenSSL==20.0.1
+PyYAML==5.3.1
+xyaml==1.0.2
